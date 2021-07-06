@@ -60,5 +60,24 @@ h1{
        width: 150px;
        height: 130px;
        border-radius: 10px;
-      
-   }
+         }
+    .sec4{
+        margin: 60px 20px 30px ;
+        display: flex;
+        border-radius: 5px;
+        box-shadow: 10px 10px 25px gray;
+    }
+    .sec4Div{
+        width: 33%;
+        margin: 30px;
+        text-align: center;
+    }
+    footer{
+        margin-top: 60px;
+        background-color: black;
+        height: 150px;
+        text-align: center;
+        padding: 10px;
+        
+    }
+    
